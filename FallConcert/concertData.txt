@@ -1,0 +1,20 @@
+Tanger Center * 75.00
+Stanley Jordan,  guitar, 35
+electric guitar
+Fender
+3.5
+Raleigh Colleseum * 100.00
+Charlie Parker, saxaphone, 10
+alto saxophone
+Horns Inc.
+5.1
+Apollo Theatre * 150.00
+Stevie Wonder, keyboard, 20
+electric keyboard
+Korg
+30
+Living Room * 0.00
+Kelvin Bryant, guitar, 99999999
+acoustic guitar
+Yamaha
+4
